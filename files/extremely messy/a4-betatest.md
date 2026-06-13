@@ -1,5 +1,7 @@
 # Unified State Positional Algebra: A Rigorous Framework for Encoding-Aware Computation
 
+**Github:** https://github.com/nahhididwin/The-research-of-Hung/blob/main/files/extremely%20messy/a4-betatest.md
+
 **Date Started:** 13/06/2026  
 
 ---
