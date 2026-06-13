@@ -1,8 +1,6 @@
 # Unified State Positional Algebra: A Rigorous Framework for Encoding-Aware Computation
 
-**Version:** 1.0 (Mathematical Foundation)  
 **Date Started:** 13/06/2026  
-**Status:** Theoretical Development (Pre-Publication)
 
 ---
 
