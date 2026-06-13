@@ -218,33 +218,6 @@ Your intuition about "information transformation" rather than "computation" is p
 
 ---
 
-## 8. Recommendations for Rigorous Development
-
-### 8.1 Formalize the Framework
-1. Define Ψ parametrically for a problem class (e.g., "all linear transformations on ℝⁿ")
-2. Prove which operations are efficient in which representations
-3. Characterize the trade-off surface: gain in op₁ vs. loss in op₂
-
-### 8.2 Concrete Case Study
-Pick **one specific problem** (e.g., similarity search on high-dimensional vectors):
-- Compare: Standard euclidean distance vs. HDC representation
-- Measure: Encode cost, operation cost, decode cost, accuracy loss
-- Publish: Empirical validation on real datasets
-
-### 8.3 Hardware Co-design
-Partner with hardware teams to:
-- Identify substrate-specific costs (memory bandwidth, parallelism, etc.)
-- Design representations that exploit hardware strengths
-- Implement: Compare to baseline on actual silicon
-
-### 8.4 Avoid These Pitfalls
-- ❌ Claim O(1) when encoding is O(N)
-- ❌ Use vague definitions like "semantic equivalence" without specification
-- ❌ Propose an infinite-dimensional space (Ω) without explanation of how to constructively represent it
-- ❌ Suggest "new machine models" without defining operations, cost model, and Church-Turing completeness
-
----
-
 
 
 ## References
