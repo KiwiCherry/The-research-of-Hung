@@ -3,7 +3,6 @@
 
 **Date Started:** 14/06/2026  
 **Last Updated:** (DD/MM/YYYY)  
-**Status:** Working Draft with Acknowledged Limitations
 
 ---
 
@@ -417,5 +416,3 @@ This is the work of many researchers over many years, not a single insight or fr
 ---
 
 **Authorship Note:** This framework represents an attempt to take seriously the structural insights in the original work while subjecting them to rigorous scrutiny and constraint. The goal is not to defend or validate the original thesis, but to extract whatever is true and useful within it, while being honest about what remains speculative, overclaimed, or simply not yet proven.
-
-**For readers of the original work:** Your core intuition—that decomposition-based representation might not be necessary for all problems—is worth exploring. But the exploration must be rigorous, scope-bounded, and empirically grounded. This paper is an attempt to chart such a course.
