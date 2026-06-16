@@ -1,3 +1,5 @@
+https://github.com/nahhididwin/The-research-of-Hung/blob/main/files/attempts/a5-beta3.md
+
 # **Convolution as Foundational Primitive: A Structurally-Aware Mathematical Framework**
 
 ## Executive Summary
