@@ -9,6 +9,10 @@ Hung's Research
 
 **Diagnosing Limitations in Current Computational Models and Proposing Alternative Directions** : https://github.com/nahhididwin/The-research-of-Hung/blob/main/files/attempts/a2_theoretical_framework.md
 
+**Giai đoạn đầu tiên của mô tả ý tưởng thô sơ của tôi bằng tiếng việt** : https://github.com/nahhididwin/The-research-of-Hung/blob/main/files/attempts/a6.md
+
+
+
 
 ("WE" <=> "I")
 
