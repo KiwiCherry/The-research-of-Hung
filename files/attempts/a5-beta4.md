@@ -1,3 +1,6 @@
+https://github.com/nahhididwin/The-research-of-Hung/blob/main/files/attempts/a5-beta4.md
+
+
 # Convolution Topology as Foundational Structure: 
 ## A Rigorous Framework for Direct Functional Mapping Without Scalar Materialization
 
