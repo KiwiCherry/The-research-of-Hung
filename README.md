@@ -13,6 +13,8 @@ Hung's Research
 
 **Paper (Characterizing When Decomposition is Necessary vs. Artificial)** : https://github.com/nahhididwin/The-research-of-Hung/blob/main/files/attempts/a7-beta.md
 
+**Paper (Structure-Preserving Relational Algebras for Convolution Networks: Replacing Scalar Evaluation with Geometric Ordering)** : https://github.com/nahhididwin/The-research-of-Hung/blob/main/files/attempts/a8-beta.md
+
 ("WE" <=> "I")
 
 
