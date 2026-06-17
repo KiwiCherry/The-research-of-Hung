@@ -11,6 +11,7 @@ Hung's Research
 
 **Giai đoạn đầu tiên của mô tả ý tưởng thô sơ của tôi bằng tiếng việt** : https://github.com/nahhididwin/The-research-of-Hung/blob/main/files/attempts/a6.md
 
+**Paper (Characterizing When Decomposition is Necessary vs. Artificial)** : https://github.com/nahhididwin/The-research-of-Hung/blob/main/files/attempts/a7-beta.md
 
 ("WE" <=> "I")
 
