@@ -1,3 +1,5 @@
+https://github.com/nahhididwin/The-research-of-Hung/blob/main/files/attempts/a8-beta.md
+
 # Structure-Preserving Relational Algebras for Convolution Networks:
 ## Replacing Scalar Evaluation with Geometric Ordering
 
