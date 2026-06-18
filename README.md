@@ -7,16 +7,6 @@ Hung's Research
 
 # Access
 
-**Paper (Diagnosing Limitations in Current Computational Models and Proposing Alternative Directions)** : https://github.com/nahhididwin/The-research-of-Hung/blob/main/files/attempts/a2_theoretical_framework.md
-
-**Giai đoạn đầu tiên của mô tả ý tưởng thô sơ của tôi bằng tiếng việt** : https://github.com/nahhididwin/The-research-of-Hung/blob/main/files/attempts/a6.md
-
-**Paper (Characterizing When Decomposition is Necessary vs. Artificial)** : https://github.com/nahhididwin/The-research-of-Hung/blob/main/files/attempts/a7-beta.md
-
-**Paper (Structure-Preserving Relational Algebras for Convolution Networks: Replacing Scalar Evaluation with Geometric Ordering)** : https://github.com/nahhididwin/The-research-of-Hung/blob/main/files/attempts/a8-beta.md
-
-**Mở rộng thêm ý tưởng gốc** : https://github.com/nahhididwin/The-research-of-Hung/blob/main/files/attempts/a9-beta.md
-
 
 **Bản bổ sung của tôi (sau fork) :**
 
