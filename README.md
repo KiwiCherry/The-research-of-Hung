@@ -15,6 +15,8 @@ Hung's Research
 
 **Paper (Structure-Preserving Relational Algebras for Convolution Networks: Replacing Scalar Evaluation with Geometric Ordering)** : https://github.com/nahhididwin/The-research-of-Hung/blob/main/files/attempts/a8-beta.md
 
+**Mở rộng thêm ý tưởng gốc** : https://github.com/nahhididwin/The-research-of-Hung/blob/main/files/attempts/a9-beta.md
+
 ("WE" <=> "I")
 
 
