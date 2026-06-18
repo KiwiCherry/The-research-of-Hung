@@ -18,6 +18,8 @@ Hung's Research
 **Mở rộng thêm ý tưởng gốc** : https://github.com/nahhididwin/The-research-of-Hung/blob/main/files/attempts/a9-beta.md
 
 
+**Bản bổ sung của tôi (sau fork) :**
+
 Giải thích tiếng việt cho a10-beta (trong attempts) : https://github.com/KiwiCherry/The-research-of-Hung/blob/main/explanation/a10-beta.md
 
 ("WE" <=> "I")
