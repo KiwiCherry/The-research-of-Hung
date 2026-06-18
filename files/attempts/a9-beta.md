@@ -26,3 +26,5 @@ Thực tế, vì không "phân rã" N biểu thức -> N scalars, chúng ta vẫ
 Việc nói về **"bất kỳ"** (so sánh **bất kỳ 2 biểu thức bất kỳ**) ở trên, thực tế tôi cũng đang phân vân không biết giới hạn sẽ nằm ở đâu, tuy nhiên hiện nay chúng ta đã có Halting Problem từ Turing, Richardson's Theorem & nhiều thứ khác có thể giúp; Thực tế ngay cả khi nếu **2 biểu thức bất kỳ** là phạm vi không thể, chúng ta vẫn có thể giới hạn lại; Ý tôi không hẳn là vậy, tại vì chúng ta có thể tạo ra nhiều môi trường, mỗi môi trường thì có phạm vi của biểu thức khác nhau, vậy tức là chúng ta vẫn sẽ có "2 biểu thức bất kỳ mà chúng ta quan tâm" trong hệ thống của chúng ta ? ;
 
 Trade-off hợp lý ở đây là (tôi đoán thế): Ta đánh đổi tính toàn năng (Generality) để lấy tính khả thi (Decidability) và hiệu năng tính toán (Computational Efficiency).
+
+**Keywords :** Abstract Algebra & Order Theory, Category Theory, Lattice & Domain Theory, Type Theory & Dependent Types, Linear Algebra over Abstract Structures, Computational Complexity & Decidability, Formal Semantics & Denotational Mathematics;
