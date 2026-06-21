@@ -27,4 +27,33 @@ Việc nói về **"bất kỳ"** (so sánh **bất kỳ 2 biểu thức bất k
 
 Trade-off hợp lý ở đây là (tôi đoán thế): Ta đánh đổi tính toàn năng (Generality) để lấy tính khả thi (Decidability) và hiệu năng tính toán (Computational Efficiency).
 
-**Keywords :** Abstract Algebra & Order Theory, Category Theory, Lattice & Domain Theory, Type Theory & Dependent Types, Linear Algebra over Abstract Structures, Computational Complexity & Decidability, Formal Semantics & Denotational Mathematics;
+
+
+6. **The most important factor, directly affecting applicability:**
+
+(English -> Vietnamese)
+
+Quy trình xử lý đại số thông thường : Từ các biểu thức -> "Tính toán" -> các scalars;
+
+Vì sao lại cần scalars ? :
+
+Vì scalar bất kỳ có thể **so sánh** với scalar bất kỳ khác, và biết được thông tin về : Lớn hơn/Bé hơn/Bằng nhau ;
+
+Và quan trọng nhất : Là biết được "KHOẢNG CÁCH" giữa các scalars với nhau, và hơn thế nữa là **Total Order**, tức là chúng ta có thể "định vị" chính xác một scalar ở đâu, thường thì ta thường hay chứng kiến : Hệ trục tọa độ (nếu là số ảo, số phức trở lên) hoặc trục tọa độ nếu là dạng số thực (scalars);
+
+Vậy thì, như ở trên chúng ta đã thảo luận về "The Expression Metric", nếu làm nó "đủ tốt" và có thể có "mối quan hệ tương tự" với trục tọa độ của scalars; Vậy thì với việc loại bỏ bước "Tính toán" (nêu trên) để giữ được **cấu trúc** và có được "tốc độ xử lý" (nếu so sánh với quy trình cũ) cực kỳ nhanh, và đặc biệt là gần như chắc chắn mọi bài toán quan trọng hiện nay mà đang được xử dụng scalars trong việc tính toán, có thể thay thế được bằng phương pháp này?
+
+Thực tế, việc "giới hạn miền" vào các biểu thức phổ biến chính là "chìa khóa vàng" để biến ý tưởng này từ lý thuyết viển vông thành thực tế áp dụng được.
+Kiểu như "convolution" hay gì đó chẳng hạn ? Nghĩa là, môi trường toán học mới của bạn không thể là một môi trường "chứa mọi thứ", mà phải là tập hợp của nhiều Domain-Specific Environments (Môi trường đặc thù cho từng nhóm bài toán).
+
+Tuy nhiên, vì tính chất thách thức của Total Order và nhiều thứ khác,..v.v Chúng ta sẽ cần phải làm ra một nền tảng toán học mới chăng?
+
+Không hẳn là phải xây lại từ đầu, nhưng cần một "chiếc cầu nối" mang tính đột phá. Toán học hiện đại đã có những manh mối để giải bài toán này, thay vì phải đập đi xây lại:
+
+Lý thuyết phạm trù (Category Theory): Toán học đã có công cụ để biến các "cấu trúc" thành các "điểm" trong một không gian lớn hơn (Topos). Lý thuyết này cho phép so sánh các cấu trúc đại số thông qua Functors mà không cần quy về số học.
+
+Hình học đại số (Algebraic Geometry): Thay vì nhìn biểu thức như một chuỗi ký tự, ta nhìn nó như một "đa tạp" (manifold) trong không gian nhiều chiều.
+
+Nhúng không gian tiềm ẩn (Latent Space Embeddings - Neuro-Symbolic AI): Đây là cách AI hiện đại đang làm. Chúng ta biến đổi cấu trúc đồ thị rời rạc của một biểu thức (AST) thành một vector liên tục trong không gian $N$ chiều. Khi đó, không gian vector này cung cấp một Metric (Khoảng cách Cosine, Khoảng cách Euclid) giữa hai biểu thức!
+
+Tôi đoán thay vì suy nghĩ xem phương pháp này có thể thay thế scalars đến mức nào, thì liệu vốn dĩ việc gần như toàn bộ (hoặc có thể là tất cả) ứng dụng có ý nghĩa hiện nay thì scalars vốn không có lợi thế gì so với phương pháp này chăng? Ý tôi là khi "The Expression Metric", **Total Order**,..v.v ở trên hoàn thiện đúng cách, thì bạn hiểu ý tôi mà?
