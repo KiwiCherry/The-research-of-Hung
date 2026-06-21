@@ -56,7 +56,7 @@ N symbolic expressions maintain structural integrity (no decomposition into scal
 
 Automatic extraction of relational structure that corresponds bijectively to scalar relationships
 
-Computational cost: far superior to O(n) scalar computation (traditional systems)
+Computational cost: far superior to O(n) scalar computation (traditional systems); NOTE : In essence, the traditional "processing" method doesn't have a complexity of O(N), however I'm talking about "computation";
 
 Key Properties Required :
 
