@@ -17,7 +17,6 @@ Hung's Research
 
 **Mở rộng thêm ý tưởng gốc** : https://github.com/nahhididwin/The-research-of-Hung/blob/main/files/attempts/a9-beta.md
 
-**Tiếp tục mở rộng ý tưởng gốc** : https://github.com/nahhididwin/The-research-of-Hung/blob/main/files/attempts/a67.md
 
 
 ("WE" <=> "I")
