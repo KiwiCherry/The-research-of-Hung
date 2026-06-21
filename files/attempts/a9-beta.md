@@ -37,3 +37,89 @@ Vậy thì, như ở trên chúng ta đã thảo luận, nếu làm nó "đủ t
 Tuy nhiên, vì tính chất thách thức của "Total Order" và nhiều thứ khác,..v.v Chúng ta sẽ cần phải làm ra một nền tảng toán học mới chăng?
 
 Tôi đoán thay vì suy nghĩ xem phương pháp này có thể thay thế scalars đến mức nào, thì liệu vốn dĩ việc gần như toàn bộ (hoặc có thể là tất cả) ứng dụng có ý nghĩa hiện nay thì scalars vốn không có lợi thế gì so với phương pháp này chăng? Ý tôi là khi "mối quan hệ", **Total Order**,..v.v ở trên hoàn thiện đúng cách, thì bạn hiểu ý tôi mà?
+
+===
+
+Core Research Question :
+
+Rather than asking "How do we compute N scalar answers from N expressions as fast as possible?", we propose asking: "Why do we need scalar outputs when relational structure and total orderings between expressions suffice?"
+
+Primary Hypothesis: ALL contemporary important problems do not fundamentally require scalar decomposition. (If it's considered mandatory to have scalars, then it's an illusion.)
+
+Proposed Framework :
+
+Central Idea :
+
+Construct a mathematically rigorous formal system where:
+
+N symbolic expressions maintain structural integrity (no decomposition into scalars)
+
+Automatic extraction of relational structure that corresponds bijectively to scalar relationships
+
+Computational cost: far superior to O(n) scalar computation (traditional systems)
+
+Key Properties Required :
+
+Comparability: Any two arbitrary expressions must be comparable using {<, >, =}
+
+Distance metric: Define a "distance" or "gap" between expressions analogous to scalar spacing
+
+Decidability: Computable comparisons with polynomial-time bounds
+
+Decidability: Rational trade-offs preventing theoretical vacuousness
+
+The Preservation Advantage :
+
+By avoiding expression-to-scalar decomposition, we retain structural information about the original expressions. This preserved structure may enable deeper analysis of expression relationships and properties.
+
+
+Computational Trade-Off :
+
+We propose exchanging generality for decidability and efficiency:
+
+Input Restriction:
+
+N expressions containing only:
+
+Basic arithmetic operations: {+, −, ×, ÷}
+
+Real numbers with finite precision
+
+Exclusions: Transcendental functions (sin, exp, log, etc.)
+
+The Fundamental Question :
+
+Current Approach
+
+Expressions → Computation → Scalar values
+
+Proposed Approach
+
+Expressions → Relational Structure (preserving all ordering/distance properties of scalar equivalents) → Direct analysis at reduced computational cost
+
+The Key Insight :
+
+Rather than ask "To what extent can this method replace scalars?", we should ask: "Do meaningful contemporary applications actually gain any advantage from scalar decomposition when relational structure & "distance" is properly formalized?"
+
+
+
+In other words: when relational properties, total orderings, and distance metrics are correctly developed, don't scalars become computationally redundant?
+
+Challenges & Requirements :
+
+This approach requires developing new mathematical foundations to rigorously handle:
+
+Total ordering on non-scalar objects
+
+Distance/metric properties without explicit coordinate systems
+
+Decidability proofs for the comparison framework
+
+Integration with existing problem domains currently formulated in scalar arithmetic
+
+
+Expected Outcome :
+
+A foundational mathematical system enabling expression-native computation at speed and decidability to exceeding scalar-based approaches, while preserving structural information lost in traditional decomposition.
+
+
