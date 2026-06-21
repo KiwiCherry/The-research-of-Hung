@@ -117,6 +117,8 @@ Decidability proofs for the comparison framework
 
 Integration with existing problem domains currently formulated in scalar arithmetic
 
+If we can solve the problem of mapping $A$ and $B$ to a space where the comparison and the resulting "total order" are always less computationally expensive than scalar decomposition (even in the most chaotic cases), then we truly have a new mathematical foundation in our hands.
+
 
 Expected Outcome :
 
