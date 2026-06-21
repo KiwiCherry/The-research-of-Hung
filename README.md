@@ -1,7 +1,7 @@
 # The-research-of-Hung
 Hung's Research
 
-**Disclaimer :** At the time of 17/06/2026 (DD/MM/YYYY), this work is an early-stage theoretical exploration developed independently by a student researcher. Due to practical constraints, the current version focuses on conceptual formulation and preliminary validation. The author welcomes feedback, critique, and collaboration from the community.
+**Disclaimer :** At the time of 21/06/2026 (DD/MM/YYYY), this work is an early-stage theoretical exploration developed independently by a student researcher. Due to practical constraints, the current version focuses on conceptual formulation and preliminary validation. The author welcomes feedback, critique, and collaboration from the community.
 
 
 
@@ -11,6 +11,9 @@ Hung's Research
 **Bản bổ sung của tôi (sau fork) :**
 
 Giải thích tiếng việt cho a10-beta (trong attempts) : https://github.com/KiwiCherry/The-research-of-Hung/blob/main/explanation/a10-beta.md
+
+**Tiếp tục mở rộng ý tưởng gốc** : https://github.com/nahhididwin/The-research-of-Hung/blob/main/files/attempts/a67.md
+
 
 ("WE" <=> "I")
 
