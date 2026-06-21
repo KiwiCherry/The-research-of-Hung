@@ -18,7 +18,6 @@ Hung's Research
 **Mở rộng thêm ý tưởng gốc** : https://github.com/nahhididwin/The-research-of-Hung/blob/main/files/attempts/a9-beta.md
 
 
-**Paper (Expression-Level Computation and Structural Equivalence, The big question is whether to completely replace the use of scalars)** : https://github.com/nahhididwin/The-research-of-Hung/blob/main/files/attempts/a12.md
 
 ("WE" <=> "I")
 
