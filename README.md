@@ -10,7 +10,10 @@ Hung's Research
 
 **Bản bổ sung của tôi (sau fork) :**
 
-Giải thích tiếng việt cho a10-beta (trong attempts) : https://github.com/KiwiCherry/The-research-of-Hung/blob/main/explanation/a10-beta.md
+
+**Giải thích cho a8-beta.md** : https://github.com/copilot/share/8a434294-4324-8c83-a842-e60244a121c8
+
+**a8-beta.md** : https://github.com/KiwiCherry/The-research-of-Hung/blob/main/files/attempts/a8-beta.md
 
 **Tiếp tục mở rộng ý tưởng gốc** : https://github.com/nahhididwin/The-research-of-Hung/blob/main/files/attempts/a67.md
 
